@@ -111,4 +111,4 @@ WD-ProjectName
 <!-- TODO: Add References -->
 | Title | Purpose | Link |
 |-|-|-|
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
+| Resume Reference | How to create Resume (CV) Website Using HTML and CSS | Curriculum Vitae (CV) | (https://www.youtube.com/watch?v=sWQ6WSD3-R0) |
